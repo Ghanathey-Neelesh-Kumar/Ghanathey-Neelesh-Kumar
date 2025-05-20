@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Ghanathey Neelesh Kumar 👋  
+### **DevOps Engineer | Cloud Enthusiast **  
 
-<!--
-**Ghanathey-Neelesh-Kumar/Ghanathey-Neelesh-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Skills:**  
+- ☁️ **Cloud:** AWS 
+- 🛠 **CI/CD:** Jenkins | GitHub Actions | ArgoCD  
+- 🐳 **Containers & Orchestration:** Docker | Kubernetes | Helm  
+- 📜 **IaC:** Terraform   
+- 🔄 **Monitoring & Logging:** Prometheus | Grafana | ELK Stack  
+- 🐧 **Linux & Scripting:** Bash | Python |
 
-Here are some ideas to get you started:
+💡 **Passionate about:**  
+- Building scalable & resilient cloud infrastructure  
+- Automating everything (because manual work is boring!)  
+- Implementing GitOps & DevOps best practices  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **GitHub Stats:**  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)  
+
+### **🚀 DevOps Workflow**  
+```mermaid
+graph LR  
+    A[Code] --> B[Version Control (Git)]  
+    B --> C[CI/CD Pipeline]  
+    C --> D[Build & Test]  
+    D --> E[Containerize (Docker)]  
+    E --> F[Deploy (Kubernetes)]  
+    F --> G[Monitor & Scale]  
