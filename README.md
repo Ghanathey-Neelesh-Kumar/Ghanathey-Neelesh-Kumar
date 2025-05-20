@@ -14,16 +14,3 @@
 - Automating everything (because manual work is boring!)  
 - Implementing GitOps & DevOps best practices  
 
-📈 **GitHub Stats:**  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)  
-
-### **🚀 DevOps Workflow**  
-```mermaid
-graph LR  
-    A[Code] --> B[Version Control (Git)]  
-    B --> C[CI/CD Pipeline]  
-    C --> D[Build & Test]  
-    D --> E[Containerize (Docker)]  
-    E --> F[Deploy (Kubernetes)]  
-    F --> G[Monitor & Scale]  
